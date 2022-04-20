@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "before":"+",
+      "after":"",
+      "counterNumber": 1500,
+      "counterText": "Participants"
+    },
+    {
+      "id": 2,
+      "before":"",
+      "after":"%",
+      "counterNumber": 92,
+      "counterText": "Taux de satisfaction"
+    },
+    {
+      "id": 3,
+      "before":"",
+      "after":"%",
+      "counterNumber": 73,
+      "counterText": "Taux d'embauche"
+    },
+    {
+      "id": 4,
+      "before":"",
+      "after":"",
+      "counterNumber": 15,
+      "counterText": "Editions réussites"
+    }
+  ]

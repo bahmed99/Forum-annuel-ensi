@@ -9,11 +9,12 @@ export default function Partenaires() {
     const settings = {
         slidesToShow: 3,
         slidesToScroll: 1,
-        arrows: false,
+  
         dots: true,
         autoplay: true,
         speed: 100,
         className: `testimonial-content--3 testimonial-grid`,
+      
         responsive: [
             {
                 breakpoint: 1200,
@@ -31,7 +32,7 @@ export default function Partenaires() {
     };
 
     return (
-        <div style={{ paddingBottom: "3%" }}>
+        <div style={{ paddingBottom: "10%" }}>
             <br />
             <br />
             <br />

@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Cognira",
+      "shortDesc": " ``We know retail we love data``  is more than just a motto for Cognira Tunisia, it is actually what brings us together. Established in 2015, Cognira is a startup that has more than 50 employees based in its three offices USA, Tunisia, and France.We work with retailers and we are passionate about helping them get more value from their data through our solutions and services.We offer forecasting, promotion and assortment solutions that help retailers maximize their profit and minimize their costs.We are trusted by leading brands located in different parts of the world and today we are continuously enlarging our departments: R&D, Data Science, Software Engineering and Implementation consulting.",
+      "thumb": "partenaires/cognira.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Infor",
+      "shortDesc": "Infor Tunisia  est un fournisseur de logiciels pour entreprise et un partenaire stratégique en technologie pour plus de 90 000 organisations à travers le monde. leurs logiciels sont dédiés à des secteurs d’activité spécifiques, offrant des gammes complètes conçues pour favoriser le progrès, que ce soit pour des particuliers, des entreprises ou à travers les réseaux. Ils ont  foi dans la beauté du travail, dans l’importance des relations et dans le pouvoir des idées pour induire des changements positifs importants.Avec 17 000 collaborateurs et plus de 67 000 clients dans plus de 175 pays, le logiciel Infor est conçu pour le progrès. ",
+      "thumb": "partenaires/infor.jpg"
+    },
+   
+    {
+      "id": 3,
+      "title": "Talan",
+      "shortDesc": "Créée en 2008, Talan Tunisie est le centre de développement « Nearshore » du groupe Talan, regroupant à ce jour plus de 500 ingénieurs de développement nouvelles technologies, plus particulièrement autour des technologies Java J2EE, Open Source, issus des plus grandes écoles d’ingénieurs tunisiennes et européennes, et travaillant pour les plus grands clients européens.En huit ans, ils ont acquis un savoir faire spécifique dans la mise en œuvre de projets au forfait en mode Nearshore et de centres délocalisés de services pour le compte de plusieurs clients grand-compte en France, mais aussi pour des éditeurs en forte croissance qui souhaitent bénéficier des avantages que peut offrir un centre de développement Nearshore en Tunisie (baisse des coûts de production, proximité géographique et culturelle, maîtrise du français, ressources humaines de qualité et en profusion, flexibilité), tout en en minimisant les risques.Leur offre a ainsi permis aux entreprises qui les ont fait confiance d’accélérer la mise en opération de leurs projets, d’en réduire les coûts tout en les soulageant des contraintes du ``sourcing``​ et de la gestion des ressources humaines.",
+      "thumb": "partenaires/talan.jpg"
+    }
+    ,
+   
+    {
+      "id": 4,
+      "title": "Machinestalk",
+      "shortDesc": "Machinestalk Tunisia, subsidiary of NOMD, a Saudi Holding specialized in ITC and innovative solutions. As a leading IoT-based solutions provider, machinestalk platforms, services, and products grant enterprises the necessary insight to maximize efficiency and reinforce scalability. Competent, Customers-centric, Innovative are the values that best describe machinestalk way of delivering cutting-edge solutions. Our team is the heart of our activity and is the capital of our partners in a digital transformation and business automation plan, that is why we are very selective in hiring people, targeting dynamic, ambitious, creative, and committed career seeking talents.",
+      "thumb": "partenaires/machinestalk.png"
+    }
+    ,
+   
+    {
+      "id": 5,
+      "title": "Decade",
+      "shortDesc": "DECADE est une société de services et d’ingénierie spécialiste des projets de commerce en ligne fondée par Marc Jerusalmi en juin 1988. Ils sont basés à Paris, où se situe le siège de l’entreprise, et à Lyon. Leur présence en Tunisie remonte à 20 ans. Avec une politique axée d’un côté sur l’ancrage et l’investissement en Tunisie et d’un autre sur l’ouverture et la mobilité, DECADE compte aujourd’hui plus de 80 collaborateurs en Tunisie, répartis sur ses 4 sites : Tunis, Monastir, Sousse et Sfax. D’autres collaborateurs tunisiens ont en outre rejoint ses équipes en France, à Paris et Lyon. Très tôt, DECADE s’inscrit dans l’intégration des mondes de la micro-informatique et de l’informatique d’entreprise (« architectures Client-Serveur ») et devient, au début des années 90, l’un des tous premiers partenaires de Microsoft en France pour le développement de solutions d’entreprise spécifiques. Avec 30 ans d'expérience, dont les 15 dernières dans l'e-commerce, DECADE a développé une vision, des méthodes et un savoir-faire uniques. Ils accompagnent leurs clients en conseil et réalisation de leurs projets (lancement dans l'e-commerce, cohérence avec le réseau de magasins, modèles marketplace, déploiement international, expérience client & marchande unique, …).Ils accompagnent également depuis de nombreuses années des enseignes françaises du commerce B2C (BUT, Intersport, La Foir'Fouille, Christian Lacroix, Go Sport, Cora, …) et du commerce B2B (Rubix, CGR, ArcelorMittal, FBD, C10, Etanco …). ",
+      "thumb": "partenaires/decade.png"
+    },
+    {
+      "id": 6,
+      "title": "Focus",
+      "shortDesc": "FOCUS Recrute est un groupe spécialisé en développement de logiciels et services informatiques avec une présence internationale (France, Allemagne et Tunisie). La mission de Focus group est de fournir des services informatiques personnalisés pour aider ses clients quelle que soit leur taille, à améliorer leurs capacités en termes d'agilité et de réactivité et faire face aux enjeux de la transformation digitale. Employant plus de 450 collaborateurs, Focus travaille avec des leaders mondiaux dans les domaines de l'Automobile, de l'édition de logiciels (ERP, Business Intelligence…), de la banque et des télécommunications, tels que SAP, Continental, Parrot Faurecia, Nokia Siemens Networks, etc., Focus a développé une solide expertise dans un large éventail de technologies: • Services applicatifs: développement spécifique autour des systèmes d'information et applications métiers, personnalisation et adaptation de logiciels standards, développement mobile, maintenance d'applications tierces ...• Systèmes embarqués: ingénierie et développement de logiciels embarqués, services de tests et de validation, notamment pour l'industrie automobile • Services autour de l'infrastructure informatique: conseil, intégration, support et services managés dans le domaine des solutions de stockage, computing et de protection des données pour environnements critiques.",
+      "thumb": "partenaires/focus.png"
+    }
+  ]
+
+ 

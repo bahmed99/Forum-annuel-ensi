@@ -11,7 +11,7 @@ import Article from "./Pages/ArticlePage"
 import Programmepage from './Pages/Programmepage';
 import Workshops from './Components/Workshops';
 import Navbar from './Components/Navbar';
-import { Nav } from 'react-bootstrap';
+
 import Inscription from './Pages/Contact'
 import Stand from './Components/Stand'
 import BlogEditor from './Pages/BlogEditor';

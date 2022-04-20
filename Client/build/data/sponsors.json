@@ -1,0 +1,142 @@
+[
+   
+  {
+    "id": 7,
+    "title": "ATS",
+    "shortDesc": "Une start-up innovante offrant des services autour des nouvelles technologies, avec une offre autour de 4 piliers : CONSEIL ET PILOTAGE : Conseil WEB, Pilotage Agile, Assistance Product Owner, Management Agile, Organisation WEB : Développement et Testing, Architecture, Big Data, Performance et scalability, Maintenance MOBILE : Développement, Testing, Architecture Mobile, Performance, Maintenance DATA INTEGRATION : Data Integration, Data Support, Data Service",
+    "thumb": "sponsors/ATS.jpg"
+  },
+  {
+    "id": 8,
+    "title": "BiatLabs",
+    "shortDesc": "BIATLABS est l’incubateur de la BIAT qui assure, gratuitement aux entrepreneurs un accompagnement en pré-incubation, en incubation et en post-incubation pour un impact positif et économique en Tunisie. Ils visent à guider les entrepreneurs a acquérir une posture entrepreneuriale, leur permettant de porter une idée viable avec une proposition de valeur afin d’avancer dans leur parcours entrepreneurial. Amener le porteur de projet a réaliser les études nécessaires pour évaluer le marché, la faisabilité et la rentabilité de son projet pour qu’il arrive à rédiger un plan d’affaires cohérent réalisable et faisable.",
+    "thumb": "sponsors/biat.jpg"
+  },
+  {
+    "id": 9,
+    "title": "CED",
+    "shortDesc": "",
+    "thumb": "sponsors/ced.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Elysa Data",
+    "shortDesc": "Founded in 2012, Elyadata provides services to businesses that leverage world-class data driven technologies to their potential, and provide the ROI customers expect from their investment. Inspired by the potential of AI-based business cases, ELYADATA started by providing R&D services on Artificial intelligence and data-related fields (Data mining/Data Architecture...). With Artificial intelligence becoming the one of the pillars of business growth, we continue to grow our services by including consulting practices with expert technical consultants that have the highly sought-after combination of software development and Data experience.",
+    "thumb": "sponsors/ELYADATA.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Minotore",
+    "shortDesc": "Minotore a été fondée en 2013 par des traders et ingénieurs financiers formés au sein des plus grands groupes bancaires européens. Partenaire privilégié dans l’accompagnement des transformations digitales des marchés financiers européens et américains, le groupe est composé de deux entités : à Paris et à Tunis. Minotore  apporte une nouvelle approche dans la conception de solutions digitales sur-mesure pour la finance de marché et dispose aujourd’hui d’une position unique parmi les sociétés de développement et de conseil en informatique. Composée d’une équipe multidisciplinaire, Minotore est d’abord un puissant réseau d’experts aux compétences diverses et complémentaires, résultat d’une solide stratégie de gestion des talents, mise en place pour attirer, développer et retenir nos collaborateurs. Cette stratégie repose notamment sur Minotore Academy : un cycle de formations qui vise à renforcer les connaissances métier de nos collaborateurs, à fédérer les équipes et à créer un climat de synergie et de confiance",
+    "thumb": "sponsors/minotor.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Habemus",
+    "shortDesc": "Founded in 1995, habemus! is a solution provider for Electronic and Software Engineering and service provider for Electronic Manufacturing Services. habemus! supports medium-sized companies throughout the entire life cycle of electronic devices and systems as well as in the digitalization of their products, processes and business models - from electronics development to networked system components in the sense of industry 4.0. In the age of digital change the German competence center for electronic engineering and manufacturing strives for continuous improvement. From the “traditional” electronic development to innovative, digital solutions and „smart“ connected products, habemus! focuses on the needs of the customers. In addition to its headquarters in Münsterhausen, Southern Germany, the company has a further development location in Sfax, Tunisia, as well as a purchasing office in Hong Kong, China.  The innovative strength of the approximately 70 employees combined with the expertise from more than 20 years of successful project work makes the ``Hidden Champion`` a competent partner for customers in various industries.",
+    "thumb": "sponsors/habumus.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Axe Finance",
+    "shortDesc": "Founded in 2004, Axe Finance is a global software provider focused on lending automation for financial institutions looking for an edge in productivity and customer service for any and all client segments: Retail Lending, commercial lending, Corporate Lending, Limit & Collateral Management and Collection & Provisioning. Axe Credit Portal is Axe Finance’s powerful end-to-end integrated solution for credit automation available either as a locally hosted or SaaS solution. ACP helps lending institutions increase customer satisfaction, reduce costs through operational efficiency, proactively mitigate risk and ensure compliance with regulations. Joining Axe Finance is joining an expanding FinTech company where the projects are varied and the vision is global, Axe Finance is a fast growing financial software provider of Lending Automation solutions to a wide range of financial institutions and it is a trusted partner of respected global financial institutions to name a few Société Générale, Al Rajhi Bank, Banque Internationale de Luxembourg, First Abu Dhabi Bank.  For more details check our website https://www.axefinance.com ",
+    "thumb": "sponsors/axe.jpg"
+  },
+  {
+    "id": 14,
+    "title": "iObeya",
+    "shortDesc": "iObeya  est un leader du Management Visuel, forgé sur les principes du LeanAgiles, dédié à la performance et à l'amélioration continue.  Leur ADN agile et leur expérience dans les nouvelles interactions avec les utilisateurs et l'édition de logiciels leur ont permis de créer l'unique iObeya, une solution de gestion visuelle numérique qui représente une véritable innovation sur le marché.  Plus de 300 000 utilisateurs quotidiens et 350 grands comptes (PSA, AIRBUS, VOLVO, SANOFI FRANKE…) s'appuient sur eux pour toutes les pratiques de  management visuel lean, agile ou Industrie 4.0.",
+    "thumb": "sponsors/iobeya.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Linedata",
+    "shortDesc": "Fondée en1998, Linedata Tunisie est un fournisseur mondial de logiciels, de services et de données dédiés au secteur finance.  Avec plus de 20 ans dans l’industrie FinTech nous fournissons des capacités d’exploitation distinctives et précieuses à nos clients en combinant des logiciels, des données et des analyses, et des services.  De plus, on a les Linedata Labes qui nous permettent de réunir des clients, des start-ups, des universités pour étudier des nouvelles technologies. Ces laboratoires facilitent le passage de l’idée à la solution en réduisant les risques. Non seulement nous accompagnons nos clients et administrateurs à relever leurs défi avec des solutions efficaces, mais aussi nous offrons à nos membres des équipe l’opportunité de construire une expertise forte dans un environnement international.  Linedata fait battre le cœur de la créativité financière pour l’humanité à se développer !.",
+    "thumb": "sponsors/linedata.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Hli",
+    "shortDesc": "Créée en 2004, HLi Tunisie, filiale du Groupe HLi France, est spécialisée dans la mise en place des nouvelles technologies de Microsoft et aide ses clients à gagner en performance, à améliorer leur qualité de service et à accroître leur positionnement sur le marché ainsi que leur chiffre d’affaire. HLi Tunisie intervient dans des domaines variés tels que les ERP, le CRM, le décisionnel, l’infogérance, le développement d’applications et la tierce maintenance applicative. Loin de se limiter aux seuls besoins nationaux. La SSII opère de plus en plus à l’échelle mondiale : Grand Maghreb - en Algérie et au Maroc et à l’international, notamment en Europe, en Afrique Subsaharienne et au Moyen en Orient.",
+    "thumb": "sponsors/HLI.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Oddo Bhf",
+    "shortDesc": "ODDO BHF est un groupe financier franco-allemand fort d'une histoire de plus de 170 ans. Il est issu d'une entreprise familiale française qui s'est construite sur cinq générations d'agents de change et d'une banque allemande spécialiste du Mittelstand.  Avec 2500 collaborateurs, dont 1300 en Allemagne et en Suisse et 1200 en France et en Tunisie, et plus de 125 milliards d’encours clients, ODDO BHF exerce trois grands métiers, basés sur un fort investissement dans les expertises de marché : banque privée, gestion d'actifs, banque de financement et d'investissement. Le Groupe est doté d’une structure actionnariale unique puisque son capital est détenu à 65 % par la famille Oddo et à 25 % par les équipes. Cette logique de partnership est le gage de l’implication des équipes sur le long terme. En 2020, ODDO BHF a réalisé un produit net bancaire de 624 millions d’euros, et au 31 décembre 2020 le Groupe disposait de plus de 940 millions d’euros de capitaux propres.",
+    "thumb": "sponsors/oddo.jpg"
+  },
+  {
+    "id": 18,
+    "title": "InstaDeep",
+    "shortDesc": "Founded in 2014, InstaDeep is today an EMEA leader in decision-making AI products for the Enterprise, with headquarters in London, and offices in Paris, Tunis, Lagos, Dubai and Cape Town.  With expertise in both machine intelligence research and concrete business deployments, the Company provides a competitive advantage to its partners in an AI-first world. Leveraging its extensive know-how in GPU-accelerated computing, deep learning and reinforcement learning, InstaDeep has built products, such as its novel DeepChainTM protein design platform, that tackle the most complex challenges across a range of industries.  InstaDeep has also developed collaborations with global leaders in the Artificial intelligence ecosystem, such as Google DeepMind, Nvidia and Intel. The Company is part of Intel’s AI Builders program and was named a Preferred Deep Learning Partner by Nvidia. ",
+    "thumb": "sponsors/instadeep.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Faurecia",
+    "shortDesc": "Entreprise technologique leader de l’industrie automobile, Faurecia Informatique Tunisie apporte des solutions innovantes aux défis de l’automobile à travers chacune de ses quatre activités stratégiques : Seating, Interiors, Clarion Electronics et Clean MobilityLes nouvelles tendances et attentes redéfinissent l'industrie automobile. Inspiré par les nouveaux défis passionnants associés à cette révolution, Faurecia anticipe l'avenir de la mobilité en développant des solutions de pointe pour le cockpit du futur et la mobilité durable.  Si vous êtes prêt à contribuer et à créer de la valeur pour la mobilité plus propre et plus intelligente de demain, Faurecia est l'endroit où il faut être. .",
+    "thumb": "sponsors/faurecia.jpg"
+  },
+  {
+    "id": 20,
+    "title": "New Access",
+    "shortDesc": "New Access is a leading provider of a scalable and modular Core-to-Digital solution suite designed to meet the specific requirements of the Private Banking and Wealth Management industries. We enable digital transformation and improve client’s satisfaction with our digital front-end solution, including an advisor cockpit, client life cycle management (CLM) and a client/EAM portal We support digital interactions between banks and their clients, managing key business and compliance processes We operate since 20 years exclusively in the private banking and wealth management sectors, supporting more than 60 customers, globally.",
+    "thumb": "sponsors/newaccess.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Telnet",
+    "shortDesc": "Telnet Holding est une entreprise tunisienne d'ingénierie offshore et de conseil dans l'innovation et les hautes technologies fondée en 1994.Avec plus de 27 ans d’existence et 500 collaborateurs, TELNET a su se forger différentes expertises à savoir : Software Embarqué, IOT, Intelligence Artificielle, Enterprise Application, Cloud Computing, Design Electronique et Conception Mécanique. TELNET opère dans différents secteurs d’activités tels que : Télécom & Média, E-Paiement, Industrie, Réseau Opérateurs & Entreprises et Aérospatial.  Elle a réalisé de nombreux projets et a cumulé une grande expérience et un savoir faire unique dans ses différents domaines d’activités. Ayant pour vocation d'être un pôle de compétences dans les hautes technologies avec une envergure internationale, elle tire en 2012 trois quarts de ses revenus du développement de logiciels, vendus principalement à des multinationales françaises. Le centre de développement de TELNET est le seul au niveau régional à être certifié CMMi niveau 5 et ISO 9001 version 2008. Le moment fort de Telnet pour cette année a été le lancement du tout premier satellite tunisien ``Challenge One``  le 22 mars 2021, ce qui lui a permis d'étendre sa notoriété au-delà des frontières de notre pays.  Jouissant d’une forte présence internationale avec 10 sites dans le monde, une grande expérience et maturité dans la conduite de projets et d’un personnel hautement qualifié et formé en continu, Telnet se marque comme une entreprise de haute calibre à l’échelle nationale tout comme à l’échelle internationale. ",
+    "thumb": "sponsors/telnet.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Value",
+    "shortDesc": "A consulting firm in strategy and digital transformation, Value is committed alongside its partners and clients to create sustainable value over time for society and the economy.A true skills incubator, Value helps its employees to develop and fully realize their potential, with very high potential impact while developing business and technological expertise within its various divisions • Digital factory • Data factory • Advanced analytics and AI services • Strategic advice ",
+    "thumb": "sponsors/Value.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Sofrecom",
+    "shortDesc": "",
+    "thumb": "sponsors/safercom.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Lb Consulting",
+    "shortDesc": "",
+    "thumb": "sponsors/LBC.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Cothings",
+    "shortDesc": "",
+    "thumb": "sponsors/cothings.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Inetum",
+    "shortDesc": "",
+    "thumb": "sponsors/inetum.jpg"
+  },
+  {
+    "id": 27,
+    "title": "3s",
+    "shortDesc": "3S Standard Sharing Software  est une société Leader dans l’intégration des infrastructures IT. Acteur majeur dans l’intégration IT, 3S opère depuis 1988, dans différentes activités, à savoir : Réseaux, Sécurité, Cloud Computing, Data Center, Backup, IoT, Communications unifiées, Collaboration et VoIP, Solutions de Mobilité, Vidéosurveillance intelligente et contrôle d’accès, etc.Partenaire avec des leaders mondiaux à l’instar de Cisco, Microsoft, IBM, Fortinet, DELL EMC… et forte d’une expérience de plus de 30 ans, 3S a toujours investi dans la valorisation de son capital humain, jeune, talentueux et doté des certifications les plus prestigieuses. Sa plateforme technique robuste et son savoir-faire, sont autant d’atouts qui lui permettent d’anticiper, d’innover et d’exceller.",
+    "thumb": "sponsors/3s.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Sagemcom",
+    "shortDesc": "Sagemcom Software & Technologies est un groupe français leader européen sur le marché des terminaux communicants à haute valeur ajoutée (décodeurs, box Internet, compteurs électriques,…).  Le chiffre d'affaires total du groupe s'élève à 2,1 milliards d'euros. L'effectif de 5 500 personnes est réparti dans plus de 50 pays.Sagemcom est rentable depuis sa création en 2008 et 31% de ses employés sont actionnaires. Elle conçoit, fabrique et expédie plus de 40 millions de terminaux dans le monde chaque année.",
+    "thumb": "sponsors/sagemcom.jpg"
+  }
+  ,
+  {
+    "id": 29,
+    "title": "Mentor Graphics",
+    "shortDesc": "",
+    "thumb": "sponsors/m.jpg"
+  }
+    ]

@@ -252,7 +252,7 @@ function InscriptionFormulaire() {
                   onChange={() => setPartage(!Partage)}
                 ></input>
                 <label class="custom-control-label" for="defaultUnchecked2">
-                  J'accepte que mes données seront partagées avec les entreprises.
+              J'accepte de partager mes informations avec les entreprises présentes au forum annuel de l'ENSI
                 </label>
               </div>
 
