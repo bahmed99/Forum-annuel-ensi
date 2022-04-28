@@ -14,7 +14,7 @@ import Navbar from './Components/Navbar';
 
 import Inscription from './Pages/Contact'
 import Stand from './Components/Stand'
-import BlogEditor from './Pages/BlogEditor';
+// import BlogEditor from './Pages/BlogEditor';
 import BlogDelete from './Pages/BlogDelete';
 
 function App() {
@@ -31,6 +31,7 @@ const addClass = () => loader.classList.add("loader-hide");
    <Router>
    <Navbar/>
         <Switch>
+          
           <Route exact path="/"><Home/></Route>
 
           <Route exact path="/programme"><Programmepage/></Route>
@@ -45,7 +46,7 @@ const addClass = () => loader.classList.add("loader-hide");
 
        
 
-          <Route exact path="/ejeBLog"><BlogEditor/></Route>
+          {/* <Route exact path="/ejeBLog"><BlogEditor/></Route> */}
           <Route exact path="/ejeDelete"><BlogDelete/></Route>
   
           <Route exact path="/auditorium"><Auditorium/></Route>

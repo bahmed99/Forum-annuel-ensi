@@ -1,14 +1,16 @@
+
 @font-face {
-  font-family: Gilroy-Bold;
-  src: url(../../assets/fonts/Gilroy-Bold.woff);
+  font-family: 'Gilroy';
+  src: url('../fonts/Gilroy-Bold.woff');
 }
 @font-face {
-  font-family: Proxima-nova;
-  src: url(../../assets/fonts/proxima-nova-light-webfont.woff);
+  font-family: 'Proxima Nova';
+  src: url('../fonts/proxima-nova-light-webfont.woff');
 }
+
 @font-face {
-  font-family: Photograph-Signature;
-  src: url(../../assets/fonts/Photograph-Signature.ttf);
+  font-family: 'Signature';
+  src: url('../fonts/Photograph-Signature.ttf');
 }
 
 .presForumContainer{
@@ -48,7 +50,7 @@
 .t_text{
   font-size: 2.5rem;
   color:  #2ea3dd;
-  font-family: Gilroy-Bold;
+  font-family: Gilroy;
   text-shadow: 2px 1px 2px var(--blue-marine);
 
 }
